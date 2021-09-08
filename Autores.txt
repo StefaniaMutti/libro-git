@@ -1,3 +1,7 @@
 Usuario: MarchioriRH
 mail: rubenmarchiori@gmail.com 
+<<<<<<< HEAD
 tel: 2494029026
+=======
+Conflicto
+>>>>>>> 1339b75fbc5fb50217eeebbcae36b3dca3ace12b
